@@ -1,0 +1,4 @@
+# Stores are fired alternating after first primary
+GT4500,2,0,2,0
+TORPEDO,SINGLE   # 1st shot -> primary
+TORPEDO,SINGLE   # 2nd shot -> secondary
