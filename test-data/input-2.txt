@@ -1,0 +1,4 @@
+# If the store next in line is empty, the ship tries to fire the other store
+GT4500,1,0,2,0
+TORPEDO,SINGLE   # uses primary (now empty)
+TORPEDO,SINGLE   # next is primary (empty) -> should fire secondary
